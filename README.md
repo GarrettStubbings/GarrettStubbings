@@ -1,5 +1,5 @@
 - Hi, I’m @GarrettStubbings, currently a research associate at Dalhousie University (Halifax NS).
-- 
+
 - Recently graduated MSc. student from the department of physics with a focus on statistical and computational physics.
 
 - My work is broadly in the field of health and aging, with projects concerning composite measures of health from biomarker measurements,
